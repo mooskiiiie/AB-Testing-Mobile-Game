@@ -1,7 +1,7 @@
 # AB-Testing-Mobile-Game
 This is a mini project that I did to practice on A/B Testing
 
-In this project, I analyzed the retention rate and the player behavior of a game called Cookie Cats, developed by Tactile Entertainment. This project is a reference to DataCamps' mini project. 
+In this project, I analyzed the retention rate and the player behavior of a game called Cookie Cats, developed by Tactile Entertainment. This project is a reference to DataCamp's mini project. 
 
 Data source: https://www.kaggle.com/code/yufengsui/datacamp-project-mobile-games-a-b-testing/input
 
